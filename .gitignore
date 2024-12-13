@@ -26,3 +26,6 @@ package-lock.json
 # Ignore cache and temporary files
 .cache/
 .tmp/
+
+# Ignore target folder in subprojects
+**/target/
